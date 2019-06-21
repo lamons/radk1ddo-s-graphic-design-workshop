@@ -30,3 +30,9 @@ https://github.com/google/fonts/archive/master.zip
 
 站酷字体系列（部分可免费商用）：
 http://www.zcool.com.cn/special/zcoolfonts/
+
+中文开源字体集：
+https://github.com/DrXie/OSFCC
+
+英文开源字体集合站：
+https://fontlibrary.org/
