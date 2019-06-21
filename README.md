@@ -16,3 +16,14 @@ https://duotone.shapefactory.co
 
 设计类网站集合站点：
 https://io3000.com/
+
+## 字体相关
+
+All Google fonts:
+https://github.com/google/fonts/archive/master.zip
+
+思源系列：
+[思源黑体](https://github.com/adobe-fonts/source-han-sans/tree/release)、[思源宋体](https://github.com/adobe-fonts/source-han-serif/tree/release)
+
+站酷字体系列（部分可免费商用）：
+http://www.zcool.com.cn/special/zcoolfonts/
