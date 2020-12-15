@@ -20,6 +20,9 @@ https://io3000.com/
 矢量素材站（商用便宜，自用可免费下载）：
 https://www.freevector.com/
 
+半调图案效果生成
+https://xoihazard.com/
+
 ## 字体相关
 
 All Google fonts:
@@ -36,3 +39,10 @@ https://github.com/DrXie/OSFCC
 
 英文开源字体集合站：
 https://fontlibrary.org/
+
+动态文字效果生成
+https://spacetypegenerator.com/
+
+## 配色相关
+Happyhues:
+https://www.happyhues.co/
