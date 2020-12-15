@@ -36,3 +36,13 @@ https://github.com/DrXie/OSFCC
 
 英文开源字体集合站：
 https://fontlibrary.org/
+
+动态文字效果生产
+https://spacetypegenerator.com/
+
+半调图案生产
+https://xoihazard.com/
+
+## 配色相关
+Happyhues
+https://www.happyhues.co/
